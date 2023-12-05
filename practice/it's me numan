@@ -1,8 +1,0 @@
-#include<stdio.h>
-     int main()
-        {
-           //lets start new journy at 12.05.2023 9:13 pm 
-            printf("MD. NUMAN SHEIKH");
-            getchar();
-
-        }
